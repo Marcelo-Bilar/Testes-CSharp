@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\Repetição.exe
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\Repetição.deps.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\Repetição.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\Repetição.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\Repetição.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\ref\Repetição.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\bin\Debug\net5.0\Repetição.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\ref\Repetição.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\Repetição\obj\Debug\net5.0\Repetição.genruntimeconfig.cache
