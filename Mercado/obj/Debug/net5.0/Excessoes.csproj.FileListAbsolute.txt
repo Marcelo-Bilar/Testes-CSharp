@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\Excessoes.exe
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\Excessoes.deps.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\Excessoes.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\Excessoes.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\Excessoes.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\ref\Excessoes.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\bin\Debug\net5.0\Excessoes.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\ref\Excessoes.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\Mercado\obj\Debug\net5.0\Excessoes.genruntimeconfig.cache
