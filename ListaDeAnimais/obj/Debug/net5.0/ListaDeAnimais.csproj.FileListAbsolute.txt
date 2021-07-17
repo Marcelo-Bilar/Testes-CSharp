@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ListaDeAnimais.exe
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ListaDeAnimais.deps.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ListaDeAnimais.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ListaDeAnimais.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ListaDeAnimais.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ref\ListaDeAnimais.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\bin\Debug\net5.0\ListaDeAnimais.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ref\ListaDeAnimais.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\ListaDeAnimais\obj\Debug\net5.0\ListaDeAnimais.genruntimeconfig.cache

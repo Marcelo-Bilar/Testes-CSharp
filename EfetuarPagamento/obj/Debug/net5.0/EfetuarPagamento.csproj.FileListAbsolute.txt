@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\EfetuarPagamento.exe
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\EfetuarPagamento.deps.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\EfetuarPagamento.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\EfetuarPagamento.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\EfetuarPagamento.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\ref\EfetuarPagamento.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\bin\Debug\net5.0\EfetuarPagamento.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\ref\EfetuarPagamento.dll
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.pdb
+C:\Users\user\Documents\GitHub\Testes-CSharp\EfetuarPagamento\obj\Debug\net5.0\EfetuarPagamento.genruntimeconfig.cache
